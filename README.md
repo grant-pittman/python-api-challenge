@@ -7,8 +7,6 @@ For Findings, please click on the findings section of the table of contents
   - [VacationPy - Planning future vacations based off of the weather data.](#vacationpy---planning-future-vacations-based-off-of-the-weather-data)
 - [Findings](#findings)
     - [Takeaways from Results of WeatherPy](#takeaways-from-results-of-weatherpy)
-- [VacationPy Results](#vacationpy-results)
-- [Here are the 9 Cities and the closet hotels:](#here-are-the-9-cities-and-the-closet-hotels)
 
 ## Background
 
